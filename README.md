@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!](https://github.com/souradipporua/Game/deployments/activity_log?environment=github-pages)
+## <b> [Click here to Play the GAME!!](https://souradipporua.github.io/Game/)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
