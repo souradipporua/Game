@@ -8,7 +8,7 @@ This project is made using HTML,CSS &amp; JavaScript.
 
 This is my Portfolio Website which consist of my **latest work, projects and blogs** and this portfolio is built using **HTML5, CSS3 and Tailwind CSS**.
 
-## 📌 **Live Site URL:** <a href="[https://github.com/souradipporua/Game/deployments/activity_log?environment=github-pages](https://souradipporua.github.io/Game/)">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://souradipporua.github.io/Game/">**Visit Now** 🚀</a>
 
 <br>
 
