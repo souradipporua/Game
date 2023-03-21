@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!](https://souradipporua.github.io/Game/)
+## <b> [Click here to Play the GAME!!](https://souradipporua.github.io/MemoryBasedGame/)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
@@ -8,7 +8,7 @@ This project is made using HTML,CSS &amp; JavaScript.
 
 This is my Portfolio Website which consist of my **latest work, projects and blogs** and this portfolio is built using **HTML5, CSS3 and Tailwind CSS**.
 
-## 📌 **Live Site URL:** <a href="https://souradipporua.github.io/Game/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://souradipporua.github.io/MemoryBasedGame/">**Visit Now** 🚀</a>
 
 <br>
 
